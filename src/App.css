@@ -31,6 +31,7 @@ hr {
 /* HEADER */
 header {
   height: 50px;
+  padding-bottom: 2rem;
 }
 header img {
   margin: 0 auto;
@@ -63,6 +64,7 @@ section {
 }
 
 .detail__live {
+  margin-top: 0.3rem;
   font-weight: 700;
   gap: 10px;
 }
